@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://addvent.ga/index.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -33,70 +33,10 @@
       <image:loc>http://addvent.ga/images/07-01-crop-u26216.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u131.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://addvent.ga/images/star.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/04-01-crop-u113.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20302x42.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u2585.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u2556.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u2901.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u2894.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x41.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u116.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u128.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02%20-%20the%20big%20bike%20film%20night-01-01-crop-u2598.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u2540.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u2875.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u2855.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x412.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u122.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u125.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u2578.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u2530.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u2868.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u2842.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u30348.jpg</image:loc>
@@ -121,39 +61,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u25562.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u29012.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u28942.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02%20-%20the%20big%20bike%20film%20night-01-01-crop-u25982.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u25402.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u28752.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u28552.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u25782.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u25302.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u28682.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u28422.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/04-01-crop-u258622.jpg</image:loc>
@@ -183,87 +90,117 @@
       <image:loc>http://addvent.ga/images/07-01-crop-u262162.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/04-01-crop-u1132.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80069.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u25852.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80575.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u1312.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u81760.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u1162.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84593.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u1282.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84754.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84091.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u1222.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u79734.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u1252.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80407.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u1313.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u81592.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u1253.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84259.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u1283.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u83922.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/04-01-crop-u1133.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u83589.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u1163.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u77227.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/02%20-%20the%20big%20bike%20film%20night-01-01-crop-u25983.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80241.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u1223.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u81432.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u25853.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84428.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u25783.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u83765.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u25403.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u83421.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u25563.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/04-01-crop-u258623.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u25303.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/06-01-crop-u258693.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/preserve-01-crop-u28753.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/07-01-crop-u258553.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u29013.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/04-01-crop-u291743.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u28683.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/06-01-crop-u291773.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u28943.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/07-01-crop-u291663.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/02-01-crop-u28553.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/04-01-crop-u262243.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://addvent.ga/images/03-01-crop-u28423.jpg</image:loc>
+      <image:loc>http://addvent.ga/images/06-01-crop-u262273.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/07-01-crop-u262163.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u258624.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/06-01-crop-u258694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/07-01-crop-u258554.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u291744.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/06-01-crop-u291774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/07-01-crop-u291664.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u262244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/06-01-crop-u262274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/07-01-crop-u262164.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/home---page-03.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -292,9 +229,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/04-01-crop-u11907.jpg</image:loc>
@@ -458,10 +392,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u119653.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u119994.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u119924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u119074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u120044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u120214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u119904.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02%20-%20the%20big%20bike%20film%20night-01-01-crop-u119184.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u119764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u119684.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u119784.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u119814.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u119104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u119734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u119464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u119884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u120154.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u119354.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u119654.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/about.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -487,9 +475,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/images-2-crop-u4253.jpg</image:loc>
@@ -518,10 +503,19 @@
     <image:image>
       <image:loc>http://addvent.ga/images/images-1-crop-u42233.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/images-2-crop-u42534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/images-crop-u42294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/images-1-crop-u42234.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/contact--.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -547,14 +541,11 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/template---event-page-02.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -580,9 +571,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20497x447.png</image:loc>
@@ -638,10 +626,37 @@
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43663.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u44534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u44974.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43664.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u44535.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u44975.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43505.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43665.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/northland.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -667,9 +682,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u4744.jpg</image:loc>
@@ -833,10 +845,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u47763.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u47564.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u47444.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u47664.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u47384.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u47504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u47724.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u47584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u47684.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u47464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u47524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u47624.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u47744.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u47484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u47604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u47704.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u47544.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u47644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u47764.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/win!.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -862,9 +928,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20885x886.png</image:loc>
@@ -887,7 +950,7 @@
   </url>
   <url>
     <loc>http://addvent.ga/blog.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -913,9 +976,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/01-crop-u16881.jpg</image:loc>
@@ -971,10 +1031,28 @@
     <image:image>
       <image:loc>http://addvent.ga/images/9-01-crop-u170443.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/01-crop-u168814.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u170644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/06-01-crop-u169014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/12-01-crop-u170544.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u169254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/9-01-crop-u170444.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/top-10.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1000,9 +1078,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/3-01-crop-u6060.jpg</image:loc>
@@ -1094,10 +1169,40 @@
     <image:image>
       <image:loc>http://addvent.ga/images/3-01-crop-u76883.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u60604.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u63074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u64714.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u66244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u67654.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u71644.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u79144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u78504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u77754.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/3-01-crop-u76884.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/this-weekend.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1123,9 +1228,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u14802.jpg</image:loc>
@@ -1289,10 +1391,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u147263.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u148144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u148024.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u147774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u148254.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u148304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u148464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u148434.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u148064.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u147934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u147304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u147324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u147884.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u147344.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u147244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u148114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u147694.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u148324.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u147264.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/home---page-02.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1321,9 +1477,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/04-01-crop-u12192.jpg</image:loc>
@@ -1487,10 +1640,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u122503.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u122844.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u122774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/04-01-crop-u121924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u122894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u123064.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u122754.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02%20-%20the%20big%20bike%20film%20night-01-01-crop-u122034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u122614.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u122534.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u122634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u122664.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u121954.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u122584.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u122314.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u122734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u123004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u122204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u122504.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/win-master-page.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1516,9 +1723,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20885x886.png</image:loc>
@@ -1526,7 +1730,7 @@
   </url>
   <url>
     <loc>http://addvent.ga/today.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1552,9 +1756,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u14303.jpg</image:loc>
@@ -1718,10 +1919,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u142783.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u143424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u143034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u141964.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u142634.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u143064.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u142374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u142054.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u142034.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u143244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u143194.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u142304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u142554.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u143374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u142204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u142264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u143304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u142614.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u142784.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/choose-date.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1747,9 +2002,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u15921.jpg</image:loc>
@@ -1778,10 +2030,19 @@
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u159213.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u159214.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u159494.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u158504.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/next-week.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1807,9 +2068,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u15204.jpg</image:loc>
@@ -1973,10 +2231,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u151953.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u151824.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u152044.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u151854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u151164.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u151464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u152104.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u152454.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u151894.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u151114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u152484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u152334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u152264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u151774.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u151204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u152434.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u151734.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u152294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u151954.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/auckland.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2002,9 +2314,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u16590.jpg</image:loc>
@@ -2168,10 +2477,64 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u165653.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u166294.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u165904.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u164834.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u165504.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u165934.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u165244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u164924.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u164904.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u166114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u166064.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u165174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u165424.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/heather%20lidell-crop-u166244.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/preserve-01-crop-u165074.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u165134.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/bread%20making-01-crop-u166174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/02-01-crop-u165484.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/03-01-crop-u165654.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/sign-up.html</loc>
-    <lastmod>2018-07-09</lastmod>
+    <lastmod>2018-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2197,9 +2560,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/screen%20shot%202018-07-08%20at%2060035%20pm-crop-u35395.jpg</image:loc>
     </image:image>
   </url>
   <url>

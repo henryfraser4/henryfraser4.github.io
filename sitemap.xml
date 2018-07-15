@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://addvent.ga/index.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -88,24 +88,6 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/07-01-crop-u262162.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80069.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u80575.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u81760.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84593.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84754.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u84091.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u79734.png</image:loc>
@@ -197,10 +179,31 @@
     <image:image>
       <image:loc>http://addvent.ga/images/07-01-crop-u262164.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u96208.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u96037.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u95870.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u95708.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u95541.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20302x42-crop-u95375.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/home---page-03.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -446,10 +449,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u119654.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/about.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -512,10 +518,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/images-1-crop-u42234.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/contact--.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -542,10 +551,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/template---event-page-02.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -653,10 +665,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/heather%20lidell-crop-u43665.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/northland.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -899,10 +914,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u47764.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/win!.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -947,10 +965,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/5-01.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/blog.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1049,10 +1070,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/9-01-crop-u170444.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/top-10.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1199,10 +1223,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/3-01-crop-u76884.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/this-weekend.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1445,10 +1472,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u147264.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/home---page-02.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1694,10 +1724,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u122504.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/win-master-page.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1727,10 +1760,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20885x886.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/today.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1973,10 +2009,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u142784.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/choose-date.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2039,10 +2078,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/snort%20with%20friends-01-crop-u158504.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/next-week.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2285,10 +2327,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u151954.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/auckland.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2531,10 +2576,13 @@
     <image:image>
       <image:loc>http://addvent.ga/images/03-01-crop-u165654.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://addvent.ga/sign-up.html</loc>
-    <lastmod>2018-07-14</lastmod>
+    <lastmod>2018-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2560,6 +2608,9 @@
     </image:image>
     <image:image>
       <image:loc>http://addvent.ga/images/pasted%20image%20815x816.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://addvent.ga/images/pasted%20image%20119x96.png</image:loc>
     </image:image>
   </url>
   <url>

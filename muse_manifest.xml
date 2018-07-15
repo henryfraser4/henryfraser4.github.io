@@ -1,42 +1,42 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="addvent.ga" resolutions="1x" timestamp="1531539699421">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="addvent.ga" resolutions="1x" timestamp="1531656820103">
   <folder name="css">
     <file name="site_global.css" crc="3859891143"/>
-    <file name="master_a-master.css" crc="446411846" ref="home---page-03:contact--:auckland:home---page-02:template---event-page-02:sign-up:win-master-page:northland:today:win!:this-weekend:blog:index:next-week:top-10:about:choose-date"/>
-    <file name="nomq_preview_master_a-master.css" crc="330000963" ref="home---page-03:contact--:auckland:home---page-02:template---event-page-02:sign-up:win-master-page:northland:today:win!:this-weekend:blog:index:next-week:top-10:about:choose-date"/>
-    <file name="home---page-03.css" crc="290175002" ref="home---page-03"/>
-    <file name="nomq_home---page-03.css" crc="4193322734" ref="home---page-03"/>
-    <file name="contact--.css" crc="249508837" ref="contact--"/>
-    <file name="nomq_contact--.css" crc="3819826109" ref="contact--"/>
-    <file name="auckland.css" crc="39256683" ref="auckland"/>
-    <file name="nomq_auckland.css" crc="4152389463" ref="auckland"/>
-    <file name="home---page-02.css" crc="4190596686" ref="home---page-02"/>
-    <file name="nomq_home---page-02.css" crc="3968828644" ref="home---page-02"/>
-    <file name="template---event-page-02.css" crc="136894478" ref="template---event-page-02"/>
-    <file name="nomq_template---event-page-02.css" crc="489387471" ref="template---event-page-02"/>
-    <file name="sign-up.css" crc="3874841542" ref="sign-up"/>
-    <file name="nomq_sign-up.css" crc="387728047" ref="sign-up"/>
-    <file name="win-master-page.css" crc="532643799" ref="win-master-page"/>
-    <file name="nomq_win-master-page.css" crc="410875059" ref="win-master-page"/>
-    <file name="northland.css" crc="3825499263" ref="northland"/>
-    <file name="nomq_northland.css" crc="182952804" ref="northland"/>
-    <file name="today.css" crc="3879268470" ref="today"/>
-    <file name="nomq_today.css" crc="470473118" ref="today"/>
-    <file name="win_.css" crc="4036587604" ref="win!"/>
-    <file name="nomq_win_.css" crc="104200687" ref="win!"/>
-    <file name="this-weekend.css" crc="362883809" ref="this-weekend"/>
-    <file name="nomq_this-weekend.css" crc="199425170" ref="this-weekend"/>
-    <file name="blog.css" crc="535266725" ref="blog"/>
-    <file name="nomq_blog.css" crc="54917263" ref="blog"/>
-    <file name="index.css" crc="4189689221" ref="index"/>
-    <file name="nomq_index.css" crc="265733019" ref="index"/>
-    <file name="next-week.css" crc="3883121712" ref="next-week"/>
-    <file name="nomq_next-week.css" crc="158630395" ref="next-week"/>
-    <file name="top-10.css" crc="4113742578" ref="top-10"/>
-    <file name="nomq_top-10.css" crc="36485965" ref="top-10"/>
-    <file name="about.css" crc="3764952664" ref="about"/>
-    <file name="nomq_about.css" crc="4065168093" ref="about"/>
-    <file name="choose-date.css" crc="3939861572" ref="choose-date"/>
-    <file name="nomq_choose-date.css" crc="3766340759" ref="choose-date"/>
+    <file name="master_a-master.css" crc="4064792485" ref="home---page-03:contact--:auckland:home---page-02:template---event-page-02:sign-up:win-master-page:northland:today:win!:this-weekend:blog:index:next-week:top-10:about:choose-date"/>
+    <file name="nomq_preview_master_a-master.css" crc="419281978" ref="home---page-03:contact--:auckland:home---page-02:template---event-page-02:sign-up:win-master-page:northland:today:win!:this-weekend:blog:index:next-week:top-10:about:choose-date"/>
+    <file name="home---page-03.css" crc="4057487643" ref="home---page-03"/>
+    <file name="nomq_home---page-03.css" crc="123114372" ref="home---page-03"/>
+    <file name="contact--.css" crc="303742262" ref="contact--"/>
+    <file name="nomq_contact--.css" crc="276675566" ref="contact--"/>
+    <file name="auckland.css" crc="283245440" ref="auckland"/>
+    <file name="nomq_auckland.css" crc="3811804907" ref="auckland"/>
+    <file name="home---page-02.css" crc="3767133862" ref="home---page-02"/>
+    <file name="nomq_home---page-02.css" crc="219573913" ref="home---page-02"/>
+    <file name="template---event-page-02.css" crc="161666627" ref="template---event-page-02"/>
+    <file name="nomq_template---event-page-02.css" crc="485432294" ref="template---event-page-02"/>
+    <file name="sign-up.css" crc="4167948977" ref="sign-up"/>
+    <file name="nomq_sign-up.css" crc="3974651506" ref="sign-up"/>
+    <file name="win-master-page.css" crc="3892083314" ref="win-master-page"/>
+    <file name="nomq_win-master-page.css" crc="3919242471" ref="win-master-page"/>
+    <file name="northland.css" crc="3970297718" ref="northland"/>
+    <file name="nomq_northland.css" crc="283544168" ref="northland"/>
+    <file name="today.css" crc="255202999" ref="today"/>
+    <file name="nomq_today.css" crc="4095809364" ref="today"/>
+    <file name="win_.css" crc="4139505145" ref="win!"/>
+    <file name="nomq_win_.css" crc="134290548" ref="win!"/>
+    <file name="this-weekend.css" crc="3856822322" ref="this-weekend"/>
+    <file name="nomq_this-weekend.css" crc="4290702598" ref="this-weekend"/>
+    <file name="blog.css" crc="3996234629" ref="blog"/>
+    <file name="nomq_blog.css" crc="4068946508" ref="blog"/>
+    <file name="index.css" crc="495415456" ref="index"/>
+    <file name="nomq_index.css" crc="4217451326" ref="index"/>
+    <file name="next-week.css" crc="244744855" ref="next-week"/>
+    <file name="nomq_next-week.css" crc="261010726" ref="next-week"/>
+    <file name="top-10.css" crc="4019729472" ref="top-10"/>
+    <file name="nomq_top-10.css" crc="527908690" ref="top-10"/>
+    <file name="about.css" crc="4208786365" ref="about"/>
+    <file name="nomq_about.css" crc="4058249064" ref="about"/>
+    <file name="choose-date.css" crc="4034003948" ref="choose-date"/>
+    <file name="nomq_choose-date.css" crc="256929726" ref="choose-date"/>
   </folder>
   <folder name="assets">
     <file name="banner.svgz" crc="3855871969" seo="true" mt="1528680421000"/>
@@ -519,22 +519,40 @@
     <file name="pasted image 497x447-u10019.png" crc="3979246993" ref="index:about:contact--:template---event-page-02:northland:win!:blog:top-10:home---page-03:home---page-02:win-master-page:today:this-weekend:next-week:choose-date:auckland:sign-up"/>
     <file name="screen shot 2018-07-08 at 60035 pm-crop-u30348.jpg" crc="4080966677" seo="true" ref="index:about:contact--:template---event-page-02:northland:win!:blog:top-10:home---page-03:home---page-02:win-master-page:today:this-weekend:next-week:choose-date:auckland:sign-up">
       <caption webpage="northland" alt=""/>
+      <caption webpage="northland" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
+      <caption webpage="win!" alt=""/>
+      <caption webpage="blog" alt=""/>
       <caption webpage="blog" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="win-master-page" alt=""/>
       <caption webpage="win-master-page" alt=""/>
       <caption webpage="auckland" alt=""/>
+      <caption webpage="auckland" alt=""/>
+      <caption webpage="this-weekend" alt=""/>
       <caption webpage="this-weekend" alt=""/>
       <caption webpage="sign-up" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="choose-date" alt=""/>
       <caption webpage="choose-date" alt=""/>
       <caption webpage="top-10" alt=""/>
+      <caption webpage="top-10" alt=""/>
+      <caption webpage="home---page-02" alt=""/>
       <caption webpage="home---page-02" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="contact--" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
+      <caption webpage="home---page-03" alt=""/>
+      <caption webpage="next-week" alt=""/>
       <caption webpage="next-week" alt=""/>
     </file>
     <file name="02 - the big bike film night-01-01-crop-u19405.jpg" crc="473475173" seo="true" ref="index:about:contact--:template---event-page-02:northland:win!:blog:top-10:home---page-03:home---page-02:win-master-page:today:this-weekend:next-week:choose-date:auckland:sign-up">
@@ -543,8 +561,8 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -568,8 +586,8 @@
       <caption webpage="home---page-02" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="next-week" alt=""/>
@@ -581,8 +599,8 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -606,8 +624,8 @@
       <caption webpage="home---page-02" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="next-week" alt=""/>
@@ -619,8 +637,8 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -644,8 +662,8 @@
       <caption webpage="home---page-02" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="next-week" alt=""/>
@@ -657,8 +675,8 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="blog" alt=""/>
@@ -682,8 +700,8 @@
       <caption webpage="home---page-02" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="next-week" alt=""/>
@@ -699,10 +717,10 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
@@ -748,10 +766,10 @@
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
@@ -771,10 +789,10 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
@@ -820,10 +838,10 @@
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
@@ -843,10 +861,10 @@
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
-      <caption webpage="today" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
       <caption webpage="win!" alt=""/>
@@ -892,10 +910,10 @@
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
       <caption webpage="contact--" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
       <caption webpage="home---page-03" alt=""/>
@@ -960,19 +978,19 @@
     <file name="images-1-crop-u42233.jpg" crc="25865040" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="pasted image 497x447.png" crc="4232388279" seo="true" ref="template---event-page-02">
-      <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="template---event-page-02" alt=""/>
-      <caption webpage="template---event-page-02" alt=""/>
+    <file name="pasted image 497x447.png" crc="372441613" seo="true" ref="template---event-page-02">
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
     </file>
-    <file name="pasted image 497x4472.png" crc="372441613" seo="true" ref="template---event-page-02">
+    <file name="pasted image 497x4472.png" crc="4232388279" seo="true" ref="template---event-page-02">
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
       <caption webpage="template---event-page-02" alt=""/>
@@ -2415,24 +2433,6 @@
       <caption webpage="auckland" alt=""/>
     </file>
     <file name="screen shot 2018-07-10 at 60712 pm.jpg" crc="3858925543" ref="index"/>
-    <file name="pasted image 302x42-crop-u80069.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 302x42-crop-u80575.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 302x42-crop-u81760.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 302x42-crop-u84593.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 302x42-crop-u84754.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 302x42-crop-u84091.png" crc="4210247627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="pasted image 302x42-crop-u79734.png" crc="4210247627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2999,22 +2999,113 @@
     <file name="03-01-crop-u165654.jpg" crc="383407143" seo="true" ref="auckland">
       <caption webpage="auckland" alt=""/>
     </file>
+    <file name="pasted image 119x96.png" crc="271857529" seo="true" ref="index:about:contact--:template---event-page-02:northland:win!:blog:top-10:home---page-03:home---page-02:win-master-page:today:this-weekend:next-week:choose-date:auckland:sign-up">
+      <caption webpage="northland" alt=""/>
+      <caption webpage="northland" alt=""/>
+      <caption webpage="northland" alt=""/>
+      <caption webpage="northland" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="template---event-page-02" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="win!" alt=""/>
+      <caption webpage="win!" alt=""/>
+      <caption webpage="win!" alt=""/>
+      <caption webpage="win!" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="blog" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="win-master-page" alt=""/>
+      <caption webpage="win-master-page" alt=""/>
+      <caption webpage="win-master-page" alt=""/>
+      <caption webpage="win-master-page" alt=""/>
+      <caption webpage="auckland" alt=""/>
+      <caption webpage="auckland" alt=""/>
+      <caption webpage="auckland" alt=""/>
+      <caption webpage="auckland" alt=""/>
+      <caption webpage="this-weekend" alt=""/>
+      <caption webpage="this-weekend" alt=""/>
+      <caption webpage="this-weekend" alt=""/>
+      <caption webpage="this-weekend" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="sign-up" alt=""/>
+      <caption webpage="choose-date" alt=""/>
+      <caption webpage="choose-date" alt=""/>
+      <caption webpage="choose-date" alt=""/>
+      <caption webpage="choose-date" alt=""/>
+      <caption webpage="top-10" alt=""/>
+      <caption webpage="top-10" alt=""/>
+      <caption webpage="top-10" alt=""/>
+      <caption webpage="top-10" alt=""/>
+      <caption webpage="home---page-03" alt=""/>
+      <caption webpage="home---page-03" alt=""/>
+      <caption webpage="home---page-03" alt=""/>
+      <caption webpage="home---page-03" alt=""/>
+      <caption webpage="contact--" alt=""/>
+      <caption webpage="contact--" alt=""/>
+      <caption webpage="contact--" alt=""/>
+      <caption webpage="contact--" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="today" alt=""/>
+      <caption webpage="home---page-02" alt=""/>
+      <caption webpage="home---page-02" alt=""/>
+      <caption webpage="home---page-02" alt=""/>
+      <caption webpage="home---page-02" alt=""/>
+      <caption webpage="next-week" alt=""/>
+      <caption webpage="next-week" alt=""/>
+      <caption webpage="next-week" alt=""/>
+      <caption webpage="next-week" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u96208.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u96037.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u95870.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u95708.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u95541.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 302x42-crop-u95375.png" crc="4210247627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-07-10 at 60712 pm-u95378-fr.jpg" crc="478066493" ref="index"/>
   </folder>
-  <file name="index.html" crc="257152884" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="about.html" crc="4115410014" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="contact--.html" crc="27620111" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="template---event-page-02.html" crc="46306676" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="northland.html" crc="447331913" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="win!.html" crc="3908571815" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="blog.html" crc="185998293" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="top-10.html" crc="3867734680" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="home---page-03.html" crc="466426534" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="home---page-02.html" crc="159169990" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="win-master-page.html" crc="3956776108" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="today.html" crc="3892732863" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="this-weekend.html" crc="21038644" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="next-week.html" crc="475030489" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="choose-date.html" crc="3832948745" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="auckland.html" crc="292960698" seo="true" mt="1531539016920" redirect="true"/>
-  <file name="sign-up.html" crc="3926741130" seo="true" mt="1531539016920" redirect="true"/>
+  <file name="index.html" crc="211628710" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="about.html" crc="4101856024" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="contact--.html" crc="4880989" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="template---event-page-02.html" crc="3886202728" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="northland.html" crc="368506545" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="win!.html" crc="3939892402" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="blog.html" crc="4247829457" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="top-10.html" crc="4154691569" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="home---page-03.html" crc="4233298730" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="home---page-02.html" crc="317763484" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="win-master-page.html" crc="377314703" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="today.html" crc="4122376042" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="this-weekend.html" crc="3859491297" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="next-week.html" crc="167164382" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="choose-date.html" crc="468043868" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="auckland.html" crc="397476573" seo="true" mt="1531656525341" redirect="true"/>
+  <file name="sign-up.html" crc="4161963781" seo="true" mt="1531656525341" redirect="true"/>
 </manifest>
